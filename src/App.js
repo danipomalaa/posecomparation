@@ -129,8 +129,6 @@ function App() {
                   src={
                     chooseVideo === "1" ? videokata1 :
                     chooseVideo === "2" ? videokata1side :
-                    chooseVideo === "3" ? videokata2 :
-                    chooseVideo === "4" ? videokata2side :
                     videokata1}
                   screenshotFormat="image/jpeg"
                   controls
@@ -182,8 +180,6 @@ function App() {
                   src={
                     chooseVideo2 === "1" ? videokata1 :
                     chooseVideo2 === "2" ? videokata1side :
-                    chooseVideo2 === "3" ? videokata2 :
-                    chooseVideo2 === "4" ? videokata2side :
                     videokata1}
                   screenshotFormat="image/jpeg"
                   controls
