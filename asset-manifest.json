@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/posecomparation/static/css/main.073c9b0a.css",
+    "main.js": "/posecomparation/static/js/main.d68aa85c.js",
+    "static/js/787.22950f8e.chunk.js": "/posecomparation/static/js/787.22950f8e.chunk.js",
+    "static/media/kamera_samping.mp4": "/posecomparation/static/media/kamera_samping.11e8d35d4834b4142e82.mp4",
+    "static/media/kamera_depan.mp4": "/posecomparation/static/media/kamera_depan.b4339f7c87935157131a.mp4",
+    "static/media/logo.svg": "/posecomparation/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/posecomparation/index.html",
+    "main.073c9b0a.css.map": "/posecomparation/static/css/main.073c9b0a.css.map",
+    "main.d68aa85c.js.map": "/posecomparation/static/js/main.d68aa85c.js.map",
+    "787.22950f8e.chunk.js.map": "/posecomparation/static/js/787.22950f8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d68aa85c.js"
+  ]
+}
